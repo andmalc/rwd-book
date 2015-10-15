@@ -1,2 +1,1 @@
-# rwd-book
-Responsive Web Design book examples
+# Responsive Web Design book examples
